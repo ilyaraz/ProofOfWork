@@ -1,0 +1,1 @@
+Proof of work for passwords based on "Time-lock puzzles and timed-release Crypto" by R. Rivest, A. Shamir, D. Wagner.
